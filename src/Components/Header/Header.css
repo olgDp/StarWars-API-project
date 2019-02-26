@@ -1,0 +1,10 @@
+@media (min-width: 992px) {
+  .collapse.navbar-collapse {
+    flex-grow: 0;
+    margin-left: auto;
+  }
+}
+
+span.navbar-brand {
+  cursor: default
+}

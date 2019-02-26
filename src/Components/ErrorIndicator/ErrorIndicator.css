@@ -1,0 +1,13 @@
+.ErrorIndicator {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.ErrorIndicator img {
+  margin-bottom: 8px;
+}
+
+.ErrorIndicator p {
+  margin-bottom: 0;
+}

@@ -1,0 +1,17 @@
+.RandomItem {
+  display: flex;
+  align-items: flex-start;
+}
+
+.RandomItem img {
+  margin-right: 40px;
+}
+
+.jumbotron {
+  padding: 32px;
+}
+
+.RandomItem button {
+  align-self: flex-start;
+  margin-left: auto;
+}
